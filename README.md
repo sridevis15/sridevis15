@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sridevi S</h1>
-<h3 align="center">A passionate React JS Developer and UI/UX, Visual, Graphic Designer</h3>
+<h3 align="center">A passionate React JS Developer, UI/UX, Visual, Graphic Designer and Prompt Engineer</h3>
 
 - 🔭 I’m currently working on **AI Based Project**
 
